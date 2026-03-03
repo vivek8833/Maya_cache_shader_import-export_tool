@@ -12,11 +12,8 @@ It automates:
 
 ## Requirements
 - Autodek Maya
-- Python 3.9 (Maya embedded Python)
+- Python 3.9(Maya embedded Python)
 - PySide6
-- Windows OS
-
----
 
 ## Project Structure
 Maya_cache_shader_import-export_tool\main.py

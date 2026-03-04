@@ -17,7 +17,11 @@ It automates:
 
 ## Project Structure
 Maya_cache_shader_import-export_tool\main.py
+
 Maya_cache_shader_import-export_tool\ui_form\my_ui.ui
+
 Maya_cache_shader_import-export_tool\script\cache_script.py
+
 Maya_cache_shader_import-export_tool\script\cache_sharder_script.py
+
 Maya_cache_shader_import-export_tool\script\sharder_export.py
